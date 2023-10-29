@@ -19,7 +19,7 @@ public class FindPetIdTest {
     }
 
     @Test
-    public void FindPetIdTestWithNotExistingId() {
+    public void findPetIdTestWithNotExistingId() {
 
         int petId = 5;
 
