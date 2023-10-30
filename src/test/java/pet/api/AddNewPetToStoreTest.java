@@ -15,7 +15,7 @@ public class AddNewPetToStoreTest {
 
         String requestBody = """
                 {
-                  "id": 10,
+                  "id": 11,
                   "category": {
                     "id": 0,
                     "name": "Max"
