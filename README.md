@@ -1,7 +1,6 @@
 # ApiTestForPetStore
 
-Testing page is public so to avoid running of memory - database is cleared regulary. 
-To avoid unwanted fails of test, please run:
+Testing API is public - database is cleared regulary - to avoid unwanted fails of test, please run:
 * AddNewPetToStoreTest before FindPetIdTest
 
 Requirements needed to run test:
@@ -12,3 +11,5 @@ Project is using:
 * Gradle with Selenium, JUnit and AssertJ
 
 Firefox driver is added to test resources (geckodriver.exe).
+
+Documentation used: https://petstore.swagger.io/#/
